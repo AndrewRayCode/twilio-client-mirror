@@ -1,0 +1,22 @@
+{
+  "name": "twilio-client-mirror",
+  "version": "0.0.1",
+  "description": "Twilio.js client code mirrored to npm for use in modern Javascript projects",
+  "main": "twilio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewRayCode/twilio-client-mirror.git"
+  },
+  "keywords": [
+    "twilio"
+  ],
+  "author": "Andrew Ray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewRayCode/twilio-client-mirror/issues"
+  },
+  "homepage": "https://github.com/AndrewRayCode/twilio-client-mirror#readme"
+}
