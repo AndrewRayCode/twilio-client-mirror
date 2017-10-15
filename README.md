@@ -9,17 +9,17 @@ address this in a later release.
 
 ### Version
 
-1.3.16
+1.4.24
 
 ### Original CDN URL
 
 You can verify the contents of this package against the official Twilio bundle:
 
-[http://media.twiliocdn.com/sdk/js/client/releases/1.3.16/twilio.js](http://media.twiliocdn.com/sdk/js/client/releases/1.3.16/twilio.js)
+[https://media.twiliocdn.com/sdk/js/client/releases/1.4.24/twilio.js](https://media.twiliocdn.com/sdk/js/client/releases/1.4.24/twilio.js)
 
 ### Documentation
 
-[https://www.twilio.com/docs/api/client/twilio-js-13](https://www.twilio.com/docs/api/client/twilio-js-13)
+[https://www.twilio.com/docs/api/client/twilio-js-14](https://www.twilio.com/docs/api/client/twilio-js-14)
 
 ### Javascript Client Overview
 

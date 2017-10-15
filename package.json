@@ -1,6 +1,6 @@
 {
   "name": "twilio-client-mirror",
-  "version": "0.0.2",
+  "version": "1.4.24",
   "description": "Twilio.js client code mirrored to npm for use in modern Javascript projects",
   "main": "twilio.js",
   "scripts": {
