@@ -2,7 +2,7 @@
   "name": "twilio-client-mirror",
   "version": "1.4.24",
   "description": "Twilio.js client code mirrored to npm for use in modern Javascript projects",
-  "main": "twilio.js",
+  "main": "dist/twilio.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
